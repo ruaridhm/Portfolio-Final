@@ -22,7 +22,7 @@ const Project = ({
       </p>
       <ul className='project-links'>
         <li>
-          <a href={gitLink} target='_blank'>
+          <a href={gitLink}>
             <i className='fab fa-github fa-3x git-icon'></i>
           </a>
         </li>

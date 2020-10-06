@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13b41c6c.chunk.css",
+    "main.js": "/static/js/main.b8c50b12.chunk.js",
+    "main.js.map": "/static/js/main.b8c50b12.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.0b9ae2d0.chunk.js": "/static/js/2.0b9ae2d0.chunk.js",
+    "static/js/2.0b9ae2d0.chunk.js.map": "/static/js/2.0b9ae2d0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f53217a4331a0cfdf7012c31452d442.js": "/precache-manifest.6f53217a4331a0cfdf7012c31452d442.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.13b41c6c.chunk.css.map": "/static/css/main.13b41c6c.chunk.css.map",
+    "static/js/2.0b9ae2d0.chunk.js.LICENSE.txt": "/static/js/2.0b9ae2d0.chunk.js.LICENSE.txt",
+    "static/media/mongo.png": "/static/media/mongo.0fbd04cb.png",
+    "static/media/App.css": "/static/media/testBackground2.78987d95.jpg",
+    "static/media/vinylLib01.png": "/static/media/vinylLib01.98a14810.png",
+    "static/media/vinylLib02.png": "/static/media/vinylLib02.c521f5a7.png",
+    "static/media/vinylLibrary.png": "/static/media/vinylLibrary.fe4ab78b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.0b9ae2d0.chunk.js",
+    "static/css/main.13b41c6c.chunk.css",
+    "static/js/main.b8c50b12.chunk.js"
+  ]
+}
