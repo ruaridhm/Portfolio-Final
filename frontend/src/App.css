@@ -1,0 +1,23 @@
+:root {
+  --primary-color: #0b00d6;
+  --secondary-color: #1838d8;
+  --background-light: #d7d8da;
+  --light-color: #f7f3b5;
+  --dark-color: #0a1e47;
+  --danger-color: #db302d;
+  --success-color: #14a837;
+  --warning-color: #ffd028;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: url(./images/testBackground2.jpg) no-repeat;
+  background-size: 100vw 105vh;
+}

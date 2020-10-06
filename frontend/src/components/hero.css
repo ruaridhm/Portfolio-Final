@@ -1,0 +1,13 @@
+.hero {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-header {
+}
+
+.hero-sub-header {
+}

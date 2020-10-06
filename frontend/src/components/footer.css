@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  background: rgb(226, 228, 227);
+  background: linear-gradient(
+    90deg,
+    rgba(226, 228, 227, 1) 0%,
+    rgba(218, 218, 218, 1) 50%,
+    rgba(226, 228, 227, 1) 100%
+  );
+  padding-bottom: 1em;
+}
+
+.contact-form-title {
+  margin-left: 2em;
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  background-color: RGBA(135, 144, 132, 1);
+  align-items: center;
+  border-radius: 0.5em;
+  margin: 0 2em;
+}
+
+.contact-form-title {
+}

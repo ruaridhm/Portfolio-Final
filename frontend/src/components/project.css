@@ -1,0 +1,43 @@
+.project-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0.5em;
+  margin: 1em;
+  padding: 0 2em;
+  background-color: RGBA(135, 144, 132, 0.9);
+  width: 60%;
+}
+
+.project-title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.project-logo {
+  margin-right: 0.5em;
+  height: 2em;
+  width: 2em;
+}
+
+.project-sub-and-description {
+  width: 50%;
+  text-align: center;
+}
+
+.project-images {
+  max-width: 600px;
+  max-height: 300px;
+  border-radius: 0.5em;
+}
+
+.project-links {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.fa-link {
+  color: gold;
+}

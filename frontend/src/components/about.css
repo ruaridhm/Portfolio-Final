@@ -1,0 +1,62 @@
+.about-container {
+  height: 85vh;
+  margin: 1em;
+  border-radius: 0.5em;
+  padding: 2em 4em;
+  background-color: RGBA(135, 144, 132, 0.9);
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
+
+.tech-list-title {
+  align-self: center;
+}
+
+.tech-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: rgba(186, 195, 183, 0.8);
+  border-radius: 0.5em;
+  width: fit-content;
+  margin: auto;
+}
+
+.tech-list li {
+  padding: 1em;
+}
+
+.tech-image {
+  height: 55px;
+  width: 49px;
+}
+
+.html-icon {
+  color: #e34c26;
+}
+
+.css-icon {
+  color: #264de4;
+}
+
+.js-icon {
+  color: #f0db4f;
+}
+
+.react-icon {
+  color: #61dbfb;
+}
+.node-icon {
+  color: #3c873a;
+}
+.git-icon {
+  color: #211f1f;
+}
+
+.sass-icon {
+  color: #cd6799;
+}
